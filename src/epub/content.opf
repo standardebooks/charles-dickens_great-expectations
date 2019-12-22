@@ -54,8 +54,12 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2007101938</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An orphan boy begins his life in extreme poverty and goes on to experience twists and turns as he grows up, finding good fortune, love, rejection, wealth and social challenges.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;IAn orphan boy begins his life in extreme poverty and goes on to experience twists and turns as he grows up, finding good fortune, love, rejection, wealth and social challenges.&lt;/p&gt;</meta>
+		<dc:description id="description">An orphan boy living in Victorian England begins his life in extreme poverty and goes on to experience good fortune, love, rejection, wealth, and social challenges as he grows into adulthood.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Charles Dickens (1812–1870) was a British author, journalist, and editor whose work brought attention to the struggles of Victorian England’s lower classes. His writings provided a candid portrait of the era’s poor and served as inspiration for social change.&lt;/p&gt; 
+			&lt;p&gt;During his prolific career, Charles Dickens published 15 novels. His best-known works include &lt;i&gt;Oliver Twist&lt;/i&gt;, &lt;i&gt;A Christmas Carol&lt;/i&gt;, &lt;i&gt;David Copperfield&lt;/i&gt;, &lt;i&gt;Bleak House&lt;/i&gt;, and &lt;i&gt;A Tale of Two Cities&lt;/i&gt;. &lt;i&gt;Great Expectations&lt;/i&gt;, Dickens’ thirteenth novel, was first published in serial form between 1860 and 1861 and is widely praised as the author’s greatest literary accomplishment.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Great Expectations&lt;/i&gt; follows the life, relationships, and moral development of an orphan boy named Pip. The novel begins when Pip encounters an escaped convict who he helps and fears in equal measure. Pip’s actions that day set off a sequence of events and interactions that shape Pip’s character as he matures into adulthood. The vivid characters, engaging narrative style, and universal themes of &lt;i&gt;Great Expectations&lt;/i&gt; establish this novel as a timeless literary classic and engaging portrait of Victorian life.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1400</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011405484</dc:source>
@@ -65,16 +69,14 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_great-expectations</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
-		<meta property="se:name.person.full-name" refines="#author">Charles Dickens</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Dickens</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">Ahttps://id.loc.gov/authorities/names/n78087607</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78087607</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Joseph Paelinck</dc:contributor>
 		<meta property="file-as" refines="#artist">Paelinck, Joseph</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_Paelinck</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">An Anonymous Volunteer</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
