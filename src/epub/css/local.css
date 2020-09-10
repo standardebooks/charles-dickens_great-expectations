@@ -25,6 +25,10 @@ p span.i1{
 	padding-left: 2em;
 }
 
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 #chapter-7 blockquote{
 	font-variant: small-caps;
 }
