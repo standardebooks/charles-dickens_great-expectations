@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
 		<ignore code="y-035">
+			<line>18</line>
 			<reason>Matched text is code.</reason>
 		</ignore>
 	</file>
